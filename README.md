@@ -9,8 +9,7 @@ Outside the world of tech, I love learning more about my course of study in scho
 🌱 I’m currently learning ReactJS
 💻 I’m looking to intern as a Front-end Developer
 
-# Connect with me @
+# Connect with me 
  isanif32@gmail.com
 
-# Languages and tools:
-[Visual Studio Code] [HTML5] [CSS3] [Javascipt] [Git]
+
